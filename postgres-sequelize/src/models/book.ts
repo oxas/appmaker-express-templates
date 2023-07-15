@@ -1,4 +1,4 @@
-import { Sequelize, Model, INTEGER, STRING } from "sequelize";
+import { INTEGER, Model, STRING } from "sequelize";
 import sequelize from "../config/sequelize";
 
 export interface BookModel extends Model {

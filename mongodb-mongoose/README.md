@@ -1,4 +1,4 @@
-# Express + MongoDB + Mongoose Application
+# Express + MongoDB + Mongoose Server
 
 ## Getting Started
 
